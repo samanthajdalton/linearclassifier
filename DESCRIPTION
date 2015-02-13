@@ -1,0 +1,8 @@
+Package: linearclassifers
+Title: Functions for kNN Classification
+Version: 0.0.0.1003
+Authors@R: person("Samantha", "Dalton", , "samantha.dalton@barcelonagse.eu", role = c("aut", "cre"))
+Description: Functions for kNN classfication.  Includes a function to calculate distances, a function to compute classifications based on distances, and a function to evaluate the best k to use for your dataset.
+Depends: R (>= 3.1.1), assertthat, doParallel, foreach
+License: See LICENSE
+LazyData: true
